@@ -1,0 +1,2 @@
+i am studying ruby
+it is interesting
